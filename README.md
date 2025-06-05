@@ -1,0 +1,1 @@
+This file will convert a vanilla Javascript project to Typescript
